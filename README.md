@@ -1,56 +1,28 @@
-# 🔱 Aeolus — AI Kubernetes Operator
+# aeolus — AI Kubernetes Operator. AI-powered Kubernetes operator
 
-> **Greek Mythology**: Keeper of Winds | AI-powered Kubernetes operator
+AI Kubernetes Operator. AI-powered Kubernetes operator. aeolus gives you a focused, inspectable implementation of that idea.
 
-[![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://MukundaKatta.github.io/aeolus/)
-[![GitHub](https://img.shields.io/github/license/MukundaKatta/aeolus?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MukundaKatta/aeolus?style=flat-square)](https://github.com/MukundaKatta/aeolus/stargazers)
+## Why aeolus
 
-## 🚀 Overview
+aeolus exists to make this workflow practical. Ai kubernetes operator. ai-powered kubernetes operator. It favours a small, inspectable surface over sprawling configuration.
 
-AI-powered Kubernetes operator
+## How It Works
 
-**Tech Stack:** Go, Python
+The code is organised as a focused, single-purpose module with a clear entry point and minimal ceremony.
 
-## 📦 Quick Start
+## Getting Started
 
-```bash
-git clone https://github.com/MukundaKatta/aeolus.git
-cd aeolus
-# Follow setup instructions below
-```
+Clone the repository and inspect the source to see how to run it.
 
-## 🏗️ Project Structure
+## Usage
+
+See the source files and entry points for concrete usage patterns.
+
+## Project Structure
 
 ```
 aeolus/
-├── README.md
-├── LICENSE
 ├── CLAUDE.md
-├── .gitignore
-├── src/
-│   ├── main.py
-│   ├── config.py
-│   └── utils.py
-├── tests/
-│   └── test_main.py
-├── docs/
-│   └── architecture.md
-├── examples/
-│   └── basic_usage.py
-└── .github/
-    └── workflows/
-        └── static.yml
+├── LICENSE
+├── README.md
 ```
-
-## 🌐 Live Demo
-
-Visit the landing page: **https://MukundaKatta.github.io/aeolus/**
-
-## 📄 License
-
-MIT License — © 2026 Officethree Technologies
-
-## 🔱 Part of the Mythological Portfolio
-
-This is project **#aeolus** in the [100-project Mythological Portfolio](https://github.com/MukundaKatta) by Officethree Technologies.
