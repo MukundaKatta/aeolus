@@ -1,6 +1,6 @@
 # aeolus — AI Kubernetes Operator. AI-powered Kubernetes operator
 
-AI Kubernetes Operator. AI-powered Kubernetes operator. aeolus gives you a focused, inspectable implementation of that idea.
+AI Kubernetes Operator. AI-powered Kubernetes operator.
 
 ## Why aeolus
 
